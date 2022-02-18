@@ -28,7 +28,7 @@ twitter_username: sircambridge
 github_username:  sircambridge
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
