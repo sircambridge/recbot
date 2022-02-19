@@ -6,7 +6,7 @@
  Data is provided by the [Recreation Information Database - RIDB](https://ridb.recreation.gov/landing) 
 
 
-<a href="images/RecBot.msix"><img src="images/bezlio-app-badges-macOS-version.png" width="150"></a>
+<a href="javascript:alert('mac version not ready yet!')"><img src="images/bezlio-app-badges-macOS-version.png" width="150"></a>
 <a href="images/RecBot.msix"><img src="images/bezlio-app-badges-windows-version.png" width="150"></a>
 
 <!-- ![Image](/images/bezlio-app-badges-windows-version.png =250x) -->
