@@ -1,9 +1,13 @@
 
 ## Recbot
 
-# Recbot is a free desktop app that helps you scan recreation.gov for available campsites. 
-# Data is provided by the [Recreation Information Database - RIDB](https://ridb.recreation.gov/landing) 
-<a href="/images/RecBot.msix"><img src="/images/bezlio-app-badges-windows-version.png" width="200"></a>
+ Recbot is a free desktop app that helps you scan recreation.gov for available campsites. 
+
+ Data is provided by the [Recreation Information Database - RIDB](https://ridb.recreation.gov/landing) 
+
+
+<a href="images/RecBot.msix"><img src="images/bezlio-app-badges-macOS-version.png" width="150"></a>
+<a href="images/RecBot.msix"><img src="images/bezlio-app-badges-windows-version.png" width="150"></a>
 
 <!-- ![Image](/images/bezlio-app-badges-windows-version.png =250x) -->
 
@@ -21,6 +25,8 @@
 ![Image](/images/180423.png)
 ##  Create the task. Recbot will now scan the campgrounds every 60 seconds!
 ![Image](/images/132602.png)
+
+recbot is built with [Flutter](https://flutter.dev/)
 
 <!-- ## Features
 ### Features
