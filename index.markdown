@@ -7,8 +7,8 @@
 
 
 <a href="javascript:alert('mac version not ready yet!')"><img src="images/bezlio-app-badges-macOS-version.png" width="150"></a>
-<a href="images/RecBot.msix"><img src="images/bezlio-app-badges-windows-version.png" width="150"></a>
-
+<a href="https://github.com/sircambridge/recbot/releases/download/1.0.0/RecBot.msix"><img src="images/bezlio-app-badges-windows-version.png" width="150"></a>
+<!-- https://github.com/sircambridge/recbot/releases/download/1.0.0/RecBot.msix -->
 <!-- ![Image](/images/bezlio-app-badges-windows-version.png =250x) -->
 
 
