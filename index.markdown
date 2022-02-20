@@ -1,11 +1,11 @@
 
 ## Recbot
 
- Recbot is a free desktop app that helps you scan recreation.gov for available campsites. 
+ Recbot is a free desktop app that helps you scan recreation.gov for available campsites and cancellations. 
 
  Data is provided by the [Recreation Information Database - RIDB](https://ridb.recreation.gov/landing) 
 
-<a href="https://discord.gg/upt6dW4RNM">Join us on Discord</a>
+Questions? Bugs? <a href="https://discord.gg/upt6dW4RNM">Find us on Discord</a>
 
 <a href="https://testflight.apple.com/join/wn7n0duc"><img src="images/bezlio-app-badges-macOS-version.png" width="150"></a>
 <a href="https://github.com/sircambridge/recbot/releases/download/1.0.0%2B5/RecBot.msix"><img src="images/bezlio-app-badges-windows-version.png" width="150"></a>
