@@ -21,7 +21,7 @@
 title: Recbot
 email: sircambridge@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  We wanted to make this app to level the playing field against paid robo booking services for campsites that often get booked within seconds. 
+  Recbot is a free desktop app that helps you scan recreation.gov for available campsites and cancellations.</br></br> We wanted to make this app to level the playing field against paid robo booking services for campsites that often get booked within seconds. 
 # baseurl: "/recbot" # the subpath of your site, e.g. /blog
 baseurl: "/" #
 url: "http://recbot.site" # the base hostname & protocol for your site, e.g. http://example.com
