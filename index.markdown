@@ -1,7 +1,7 @@
 
 <!-- 2/21/2022 - fixed certificate problem, updated to zip file / exe instead of msix installer with  -->
 
- Data is provided by the [Recreation Information Database - RIDB](https://ridb.recreation.gov/landing) 
+ Data is provided by the [Recreation Information Database - RIDB](https://ridb.recreation.gov/landing) and [recreation.gov](https://recreation.gov)
 
 Questions? Bugs? <a href="https://discord.gg/upt6dW4RNM">Find us on Discord</a>
 
