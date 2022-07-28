@@ -6,7 +6,7 @@
 Questions? Bugs? <a href="https://discord.gg/upt6dW4RNM">Find us on Discord</a>
 
 <a href="https://github.com/sircambridge/recbot/releases/download/1.0.0%2B12/Recbot.dmg"><img src="images/bezlio-app-badges-macOS-version.png" width="150"></a>
-<a href="https://github.com/sircambridge/recbot/releases/download/1.0.0%2B12/Recbot.zip"><img src="images/bezlio-app-badges-windows-version.png" width="150"></a>
+<a href="https://github.com/sircambridge/recbot/releases/download/1.0.0%2B13/Recbot.zip"><img src="images/bezlio-app-badges-windows-version.png" width="150"></a>
 
 
 <!-- https://github.com/sircambridge/recbot/releases/download/1.0.0/RecBot.msix -->
