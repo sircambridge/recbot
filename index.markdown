@@ -20,7 +20,7 @@ Questions? Bugs? <a href="https://discord.gg/upt6dW4RNM">Find us on Discord</a>
   
 <a href="/images/133549.png"><img style="filter: drop-shadow(0 0.2rem 0.25rem rgba(0, 0, 0, 0.2));" src="/images/133549.png" ></a>
 <!-- ![Image](/images/133549.png) -->
-Tired of endless searching and frustration trying to find available campsites on recreation.gov? Look no further! Our automatic robot scours recreation.gov in real-time and locates all available campsites, saving you time and stress.<br/>
+Tired of endless searching and frustration trying to find available campsites on recreation.gov? Look no further! Our automatic robot scours recreation.gov in real-time and locates all available campsites, saving you time and stress. Are you dreaming of camping in Yosemite National Park, but struggling to snag one of the coveted campsites? We understand how frustrating it can be to plan a trip to one of the most beautiful national parks in the United States, only to find out that all the campsites are already booked. We got you!<br/>
 ##  select the dates you want to scan for. 
 <!-- ![Image](/images/180408.png) -->
 <a href="/images/180408.png"><img style="filter: drop-shadow(0 0.2rem 0.25rem rgba(0, 0, 0, 0.2));" src="/images/180408.png" ></a>
