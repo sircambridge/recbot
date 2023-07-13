@@ -15,11 +15,12 @@ Questions? Bugs? <a href="https://discord.gg/upt6dW4RNM">Find us on Discord</a>
 
 <!-- ##  start by searching for busy campgrounds
 ![Image](/images/180006.png) -->
-<h3 style="color:red;background:lightGrey">6/28/2023: IMPORTANT update. If you downloaded Recbot between 6/14 and 6/28, that version did not correctly send desktop notifications (discord notifications worked fine). please download the newest version of the app. I sincerely apologize for this brain fart of mine. 😭 </h3>
+<h3 style="color:red;background:lightGrey">6/28/2023: IMPORTANT update. If you downloaded Recbot between 6/14 and 6/28, that version did not correctly send desktop notifications (discord notifications worked fine). please download the newest version of the app. I sincerely apologize. 😭 </h3>
 ##  Start by searching for campgrounds
   
 <a href="/images/133549.png"><img style="filter: drop-shadow(0 0.2rem 0.25rem rgba(0, 0, 0, 0.2));" src="/images/133549.png" ></a>
 <!-- ![Image](/images/133549.png) -->
+
 Tired of endless searching and frustration trying to find available campsites on recreation.gov? Look no further! Our automatic robot scours recreation.gov in real-time and locates all available campsites, saving you time and stress. Are you dreaming of camping in Yosemite National Park, but struggling to snag one of the coveted campsites? We understand how frustrating it can be to plan a trip to one of the most beautiful national parks in the United States, only to find out that all the campsites are already booked. We got you!<br/>
 ##  select the dates you want to scan for. 
 <!-- ![Image](/images/180408.png) -->
@@ -30,6 +31,8 @@ Our automatic robot not only finds available campsites, but also keeps an eye ou
 
 <a href="/images/180423.png"><img style="filter: drop-shadow(0 0.2rem 0.25rem rgba(0, 0, 0, 0.2));" src="/images/180423.png" ></a>
 <!-- ![Image](/images/180423.png) -->
+
+
 Imagine this: you've been searching for a specific campsite for weeks, but it seems to be booked solid. With our campsite finder, all you have to do is set up a notification for that specific campsite and sit back, relax. Our robot will immediately notify you as soon as a cancellation becomes available.<br/>
 ##  Create the task. Recbot will now scan the campgrounds every 60 seconds.
 <!-- ![Image](/images/132602.png) -->
