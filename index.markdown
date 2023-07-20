@@ -15,7 +15,7 @@ Questions? Bugs? <a href="https://discord.gg/upt6dW4RNM">Find us on Discord</a>
 
 <!-- ##  start by searching for busy campgrounds
 ![Image](/images/180006.png) -->
-<h3 style="color:red;background:lightGrey">6/28/2023: IMPORTANT update. If you downloaded Recbot between 6/14 and 6/28, that version did not correctly send desktop notifications (discord notifications worked fine). please download the newest version of the app. I sincerely apologize. 😭 </h3>
+<!-- <h3 style="color:red;background:lightGrey">6/28/2023: IMPORTANT update. If you downloaded Recbot between 6/14 and 6/28, that version did not correctly send desktop notifications (discord notifications worked fine). please download the newest version of the app. I sincerely apologize. 😭 </h3> -->
 ##  Start by searching for campgrounds
   
 <a href="/images/133549.png"><img style="filter: drop-shadow(0 0.2rem 0.25rem rgba(0, 0, 0, 0.2));" src="/images/133549.png" ></a>
